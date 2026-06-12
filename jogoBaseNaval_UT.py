@@ -489,7 +489,7 @@ def tutorial():
 ║ Linhas:  0 até 4                                         ║
 ║ Colunas: 0 até 9                                         ║
 ║                                                          ║
-║ EXEMPLO:                                                  ║
+║ EXEMPLO:                                                 ║
 ║ Linha: 2                                                 ║
 ║ Coluna: 7                                                ║
 ╠══════════════════════════════════════════════════════════╣
